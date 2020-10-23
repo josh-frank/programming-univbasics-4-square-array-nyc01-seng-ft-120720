@@ -5,4 +5,5 @@ def square_array( array )
     result << ( array[ counter ] ** 2 )
     counter += 1
   end
+  result
 end
